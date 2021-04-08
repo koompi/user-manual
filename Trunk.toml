@@ -1,0 +1,3 @@
+[build]
+target = "client/index.html"
+dist = "dist"
